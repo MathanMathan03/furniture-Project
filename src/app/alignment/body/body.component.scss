@@ -1,0 +1,18 @@
+#box{
+    font-family:Impact Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    background-color: #fff; 
+    top: 5%;
+    margin-top: 3%;
+}
+
+.card:hover{
+    background-color: #fff;
+    transform: scale(1.07);
+}
+*{
+    background-color: #fff;
+}
+.card-body{
+    text-align:center;
+}
